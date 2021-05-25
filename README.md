@@ -1,6 +1,6 @@
 # Decision-Making-via-Data-Analysis
 
-# Breakdown of this notebook:
+##Breakdown of this notebook:
 Loading the dataset: Load the data and import the libraries.
 Data Cleaning:
 Deleting redundant columns.
