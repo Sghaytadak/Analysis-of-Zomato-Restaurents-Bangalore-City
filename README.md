@@ -14,12 +14,12 @@ Cleaning individual columns.
 
 4. Finding the best cheap restaurants:
 
- Cheapest, Highest rated and largely voted.
+        Cheapest, Highest rated and largely voted.
 
- Is there a relation between cuisine,location and the cost?
+        Is there a relation between cuisine,location and the cost?
 
 5. Exploring the best expensive restaurants.
 
- Restaurants that are expensive, Highest rated and largely voted.
+        Restaurants that are expensive, Highest rated and largely voted.
 
- Is there a relation between restaurant type,location and the cost?
+        Is there a relation between restaurant type,location and the cost?
